@@ -9,3 +9,6 @@ This repository contains the code and resources for the HR Analytics Power BI Da
 ### Diversity Metrics: Provides insights into workforce diversity, including gender, age, and ethnicity distributions.
 
 ### Performance Tracking: Tracks employee performance metrics and identifies top performers and areas needing improvement.
+
+![image](https://github.com/user-attachments/assets/de757008-624b-4812-89dd-9c6448a9a42f)
+
